@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+}
+
+#mycanvas{
+    background-color: white;
+    border-style: ridge;
+    border-color: crimson;
+}
